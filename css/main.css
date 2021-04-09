@@ -11,28 +11,28 @@ html {
 }
 
 
-body{
+body {
   margin: 0;
 }
 
-main{
+main {
   margin: 0;
 }
 
-h2{
+h2 {
   font-family: Oswald, sans-serif;
   margin: 0;
   color: #6f00e7;
   font-size: 2rem;
 }
 
-p{
+p {
   text-align: center;
   margin: 0 0 1.5rem;
   font-size: 1.4rem;
 }
 
-ol{
+ol {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -40,7 +40,6 @@ ol{
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
-
 }
 
 ol > li {
@@ -72,18 +71,17 @@ ol ul {
 }
 
 .btn {
-border-radius: 3em;
-background-color: #6f00e7;
-color: #fff;
-text-decoration: none;
-font-family: Oswald, sans-serif;
-padding: .5em 1.5em .7em;
-font-weight: bold;
+  border-radius: 3em;
+  background-color: #6f00e7;
+  color: #fff;
+  text-decoration: none;
+  font-family: Oswald, sans-serif;
+  padding: .5em 1.5em .7em;
+  font-weight: bold;
 }
 
 ul li {
   padding: 0 .25em;
-
 }
 
 ul a img {
